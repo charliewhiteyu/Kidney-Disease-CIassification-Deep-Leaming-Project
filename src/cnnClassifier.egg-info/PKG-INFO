@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/charliewhiteyu/Kidney-Disease-CIassification-Deep-Leaming-Project
+Author: charliewhiteyu
+Author-email: temp@gmail.com
+Project-URL: Bug Tracker, https://github.com/charliewhiteyu/Kidney-Disease-CIassification-Deep-Leaming-Project/issues
+
 # Kidney-Disease-CIassification-Deep-Leaming-Project
 
 ## Workflows
@@ -19,16 +28,16 @@
 Clone the repository
 
 ```bash
-https://github.com/charliewhiteyu/Kidney-Disease-CIassification-Deep-Leaming-Project
+https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n kidney python=3.8 -y
+conda create -n cnncls python=3.8 -y
 ```
 
 ```bash
-conda activate kidney
+conda activate cnncls
 ```
 
 
